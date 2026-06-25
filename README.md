@@ -1,8 +1,6 @@
 # Data Jobs Dashboard With Power BI
 
-<video width="100%" controls autoplay muted loop>
-  <source src="dashboard_preview/data_job_dashboard_preview.mp4" type="video/mp4">
-</video>
+[Dashboard Preview](dashboard_preview\data_job_dashboard_preview.mp4)
 
 ## Introduction
 
