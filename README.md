@@ -1,6 +1,6 @@
 # Data Jobs Dashboard With Power BI
 
-[Dashboard Preview](dashboard_preview\data_job_dashboard_preview.mp4)
+[Dashboard Preview](dashboard_preview/data_job_dashboard_preview.mp4)
 
 ## Introduction
 
